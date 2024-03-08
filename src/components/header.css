@@ -1,0 +1,15 @@
+.nav{
+    background: black;
+    display: flex;
+    color:white;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+.footer{
+    background: black;
+    display: flex;
+    color:white;
+    justify-content: space-evenly;
+    padding: 10px;
+}
